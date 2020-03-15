@@ -5,7 +5,7 @@ Link https://severinoleague.altervista.org/
 
 1.Pages 
 
-Registration page is for users without an account (lel), after registration a new line is created in the database users.
+Registration page is for users without an account (lel), after registration a new line is created in the database users. 30
 
 
 Login page is opened whenever a non connected user tries to create a contest, register to a contest, submit an answer for a contest.
