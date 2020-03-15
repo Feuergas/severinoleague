@@ -17,7 +17,7 @@ Link: https://severinoleague.altervista.org/login.php
 ## Home page 
 Here are displayed all the contests in the site and the ELO rank list of all participants.
 Contests have a small description in the home page, that includes starting time, duration, link to the ranking, button to registration (contest is not started, it will have a password insertion box if the contest requires it), link to the submissions page (contest is started).
-Link: https://severinoleague.altervista.org/index.php
+Link: https://severinoleague.altervista.org/
 
 # 2.Databases
 
