@@ -3,7 +3,7 @@ A math competition oriented website
 
 Link https://severinoleague.altervista.org/
 
-#1.Pages 
+# 1.Pages 
 
 Registration page is for users without an account (lel), after registration a new line is created in the database users.
 
@@ -15,9 +15,9 @@ Home page is at index.php,here are displayed all the contests in the site and th
 
 Contests have a small description in the home page, that includes starting time, duration, link to the ranking, button to registration (contest is not started, it will have a password insertion box if the contest requires it), link to the submissions page (contest is started).
 
-#2.Databases
+# 2.Databases
 
-#3.Other
+# 3.Other
 
 Error management: Append all errors in array $err, at the end of loading stamp all errors
 
